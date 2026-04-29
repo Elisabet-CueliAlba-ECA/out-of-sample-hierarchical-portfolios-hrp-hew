@@ -275,7 +275,7 @@ Implementation developed in **Google Colab**.
 
 - Musmeci, N., T. Aste, and T. Di Matteo. “Relation between Financial Market Structure and the Real Economy: Comparison Between Clustering Methods.” *PLoS One*, Vol. 10, No. 3 (2015), pp. 201-210.
 
-- Cajas, D. “Advanced Portfolio Optimization: A Cutting-edge Quantitative Approach.” Springer, Cham (2025).
+- Yue, S., Wang, X., & Wei, M. (2008). Application of two-order difference to gap statistic. Transactions of Tianjin University, 14(3), 217-221.
 ---
 
 # Reproducibility
